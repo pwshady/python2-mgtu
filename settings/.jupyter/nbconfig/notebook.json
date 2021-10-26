@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "nbtutor/js/nbtutor.min": true
+  }
+}
