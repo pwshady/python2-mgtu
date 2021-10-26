@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\OpenServer\\domains\\python2-mgtu\\work",
+  "password": false,
+  "pid": 16724,
+  "port": 8888,
+  "secure": false,
+  "token": "a089c39eb21e2ec3bd36dc54bcf37575f36c8a187843e350",
+  "url": "http://localhost:8888/"
+}
